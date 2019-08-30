@@ -7,23 +7,64 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2262305022AB0ABE00E98B43 /* ResourcePath.mm in Sources */ = {isa = PBXBuildFile; fileRef = 2262304F22AB0ABE00E98B43 /* ResourcePath.mm */; };
-		2262305322AB0ABE00E98B43 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2262305222AB0ABE00E98B43 /* main.cpp */; };
-		2262307222AB0F0A00E98B43 /* frame.png in Resources */ = {isa = PBXBuildFile; fileRef = 2262306F22AB0F0900E98B43 /* frame.png */; };
-		2262307322AB0F0A00E98B43 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 2262307022AB0F0900E98B43 /* background.png */; };
-		2262307422AB0F0A00E98B43 /* tiles.png in Resources */ = {isa = PBXBuildFile; fileRef = 2262307122AB0F0A00E98B43 /* tiles.png */; };
+		22078692230A1A0C0081C438 /* TrainerAI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22078690230A1A0C0081C438 /* TrainerAI.cpp */; };
+		220C404622CA4B2100A41A38 /* GUI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 220C404422CA4B2100A41A38 /* GUI.cpp */; };
+		221EED5522BF01AB00ECDB0B /* CMakeLists.txt in Resources */ = {isa = PBXBuildFile; fileRef = 221EED5022BF01AB00ECDB0B /* CMakeLists.txt */; };
+		221EED5722BF01AB00ECDB0B /* Piece.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 221EED5322BF01AB00ECDB0B /* Piece.cpp */; };
+		221EED5A22BF0B4000ECDB0B /* PieceFactory.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 221EED5922BF0B4000ECDB0B /* PieceFactory.cpp */; };
+		221EED5D22BFEDA800ECDB0B /* Pile.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 221EED5B22BFEDA800ECDB0B /* Pile.cpp */; };
+		221EED6022C02F5900ECDB0B /* Boardgame.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 221EED5E22C02F5900ECDB0B /* Boardgame.cpp */; };
+		221EED6322C0405500ECDB0B /* Observ.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 221EED6122C0405500ECDB0B /* Observ.cpp */; };
+		2266B8CF22CA8E3D002BB856 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2266B8CE22CA8E3D002BB856 /* main.cpp */; };
+		227D7A3A22E3F4B400461959 /* Inconsolata-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 227D7A3922E3F4B400461959 /* Inconsolata-Regular.ttf */; };
+		227D7A3F22E6236800461959 /* GameAI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 227D7A3D22E6236800461959 /* GameAI.cpp */; };
+		22F2A48E22FF93DC00F7F57F /* NeuralNet.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22F2A48C22FF93DC00F7F57F /* NeuralNet.cpp */; };
+		22F2A4962300881D00F7F57F /* GeneticAlgorithm.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 22F2A4942300881D00F7F57F /* GeneticAlgorithm.cpp */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		227D7A3722E3F45400461959 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 7;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		22078690230A1A0C0081C438 /* TrainerAI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = TrainerAI.cpp; sourceTree = "<group>"; };
+		22078691230A1A0C0081C438 /* TrainerAI.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TrainerAI.hpp; sourceTree = "<group>"; };
+		220C404422CA4B2100A41A38 /* GUI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GUI.cpp; sourceTree = "<group>"; };
+		220C404822CA506700A41A38 /* Library */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Library; path = ../../../../../Library; sourceTree = "<group>"; };
+		221EED5022BF01AB00ECDB0B /* CMakeLists.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CMakeLists.txt; sourceTree = "<group>"; };
+		221EED5122BF01AB00ECDB0B /* Piece.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Piece.h; sourceTree = "<group>"; };
+		221EED5322BF01AB00ECDB0B /* Piece.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Piece.cpp; sourceTree = "<group>"; };
+		221EED5822BF067000ECDB0B /* PieceFactory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PieceFactory.h; sourceTree = "<group>"; };
+		221EED5922BF0B4000ECDB0B /* PieceFactory.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PieceFactory.cpp; sourceTree = "<group>"; };
+		221EED5B22BFEDA800ECDB0B /* Pile.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Pile.cpp; sourceTree = "<group>"; };
+		221EED5C22BFEDA800ECDB0B /* Pile.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Pile.hpp; sourceTree = "<group>"; };
+		221EED5E22C02F5900ECDB0B /* Boardgame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Boardgame.cpp; sourceTree = "<group>"; };
+		221EED5F22C02F5900ECDB0B /* Boardgame.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Boardgame.hpp; sourceTree = "<group>"; };
+		221EED6122C0405500ECDB0B /* Observ.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Observ.cpp; sourceTree = "<group>"; };
+		221EED6222C0405500ECDB0B /* Observ.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Observ.hpp; sourceTree = "<group>"; };
 		2262304A22AB0ABE00E98B43 /* Tetris.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tetris.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2262304E22AB0ABE00E98B43 /* Tetris-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Tetris-Info.plist"; sourceTree = "<group>"; };
-		2262304F22AB0ABE00E98B43 /* ResourcePath.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = ResourcePath.mm; sourceTree = "<group>"; };
-		2262305122AB0ABE00E98B43 /* ResourcePath.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ResourcePath.hpp; sourceTree = "<group>"; };
-		2262305222AB0ABE00E98B43 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		2262306F22AB0F0900E98B43 /* frame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame.png; sourceTree = "<group>"; };
-		2262307022AB0F0900E98B43 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
-		2262307122AB0F0A00E98B43 /* tiles.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tiles.png; sourceTree = "<group>"; };
-		2262307522AC889000E98B43 /* piece.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = piece.hpp; sourceTree = "<group>"; };
+		2266B8CD22CA8C77002BB856 /* GUI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GUI.h; sourceTree = "<group>"; };
+		2266B8CE22CA8E3D002BB856 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2266B8D422CB970F002BB856 /* QTKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QTKit.framework; path = System/Library/Frameworks/QTKit.framework; sourceTree = SDKROOT; };
+		2267D30422D29A2300DEFAE0 /* Frameworks */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Frameworks; path = ../../../../../System/Library/Frameworks; sourceTree = "<group>"; };
+		2267D30622D29AC000DEFAE0 /* SDL2.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SDL2.framework; path = ../../../../../Library/Frameworks/SDL2.framework; sourceTree = "<group>"; };
+		227D7A3922E3F4B400461959 /* Inconsolata-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inconsolata-Regular.ttf"; sourceTree = "<group>"; };
+		227D7A3D22E6236800461959 /* GameAI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GameAI.cpp; sourceTree = "<group>"; };
+		227D7A3E22E6236800461959 /* GameAI.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GameAI.hpp; sourceTree = "<group>"; };
+		22F2A48C22FF93DC00F7F57F /* NeuralNet.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = NeuralNet.cpp; sourceTree = "<group>"; };
+		22F2A48D22FF93DC00F7F57F /* NeuralNet.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = NeuralNet.hpp; sourceTree = "<group>"; };
+		22F2A49222FF942D00F7F57F /* utils.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = utils.hpp; sourceTree = "<group>"; };
+		22F2A4942300881D00F7F57F /* GeneticAlgorithm.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GeneticAlgorithm.cpp; sourceTree = "<group>"; };
+		22F2A4952300881D00F7F57F /* GeneticAlgorithm.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GeneticAlgorithm.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,11 +78,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		220C404722CA506600A41A38 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2267D30622D29AC000DEFAE0 /* SDL2.framework */,
+				2267D30422D29A2300DEFAE0 /* Frameworks */,
+				2266B8D422CB970F002BB856 /* QTKit.framework */,
+				220C404822CA506700A41A38 /* Library */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		2262304022AB0ABE00E98B43 = {
 			isa = PBXGroup;
 			children = (
 				2262304C22AB0ABE00E98B43 /* Tetris */,
 				2262304B22AB0ABE00E98B43 /* Products */,
+				220C404722CA506600A41A38 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,12 +109,32 @@
 		2262304C22AB0ABE00E98B43 /* Tetris */ = {
 			isa = PBXGroup;
 			children = (
-				2262304F22AB0ABE00E98B43 /* ResourcePath.mm */,
-				2262305122AB0ABE00E98B43 /* ResourcePath.hpp */,
-				2262305222AB0ABE00E98B43 /* main.cpp */,
-				2262307522AC889000E98B43 /* piece.hpp */,
-				2262305422AB0ABE00E98B43 /* Resources */,
+				22F2A49222FF942D00F7F57F /* utils.hpp */,
+				227D7A3922E3F4B400461959 /* Inconsolata-Regular.ttf */,
+				227D7A3822E3F4B400461959 /* font */,
+				2266B8CE22CA8E3D002BB856 /* main.cpp */,
+				2266B8CD22CA8C77002BB856 /* GUI.h */,
+				220C404422CA4B2100A41A38 /* GUI.cpp */,
+				221EED5022BF01AB00ECDB0B /* CMakeLists.txt */,
+				221EED5322BF01AB00ECDB0B /* Piece.cpp */,
+				221EED5122BF01AB00ECDB0B /* Piece.h */,
+				221EED5822BF067000ECDB0B /* PieceFactory.h */,
+				221EED5922BF0B4000ECDB0B /* PieceFactory.cpp */,
+				221EED5B22BFEDA800ECDB0B /* Pile.cpp */,
+				221EED5C22BFEDA800ECDB0B /* Pile.hpp */,
 				2262304D22AB0ABE00E98B43 /* Supporting Files */,
+				221EED5E22C02F5900ECDB0B /* Boardgame.cpp */,
+				221EED5F22C02F5900ECDB0B /* Boardgame.hpp */,
+				221EED6122C0405500ECDB0B /* Observ.cpp */,
+				221EED6222C0405500ECDB0B /* Observ.hpp */,
+				227D7A3D22E6236800461959 /* GameAI.cpp */,
+				227D7A3E22E6236800461959 /* GameAI.hpp */,
+				22F2A48C22FF93DC00F7F57F /* NeuralNet.cpp */,
+				22F2A48D22FF93DC00F7F57F /* NeuralNet.hpp */,
+				22F2A4942300881D00F7F57F /* GeneticAlgorithm.cpp */,
+				22F2A4952300881D00F7F57F /* GeneticAlgorithm.hpp */,
+				22078690230A1A0C0081C438 /* TrainerAI.cpp */,
+				22078691230A1A0C0081C438 /* TrainerAI.hpp */,
 			);
 			path = Tetris;
 			sourceTree = "<group>";
@@ -74,14 +147,11 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		2262305422AB0ABE00E98B43 /* Resources */ = {
+		227D7A3822E3F4B400461959 /* font */ = {
 			isa = PBXGroup;
 			children = (
-				2262307022AB0F0900E98B43 /* background.png */,
-				2262306F22AB0F0900E98B43 /* frame.png */,
-				2262307122AB0F0A00E98B43 /* tiles.png */,
 			);
-			name = Resources;
+			path = font;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,6 +165,7 @@
 				2262304622AB0ABE00E98B43 /* Frameworks */,
 				2262304722AB0ABE00E98B43 /* Resources */,
 				2262304822AB0ABE00E98B43 /* ShellScript */,
+				227D7A3722E3F45400461959 /* CopyFiles */,
 			);
 			buildRules = (
 			);
@@ -141,9 +212,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2262307422AB0F0A00E98B43 /* tiles.png in Resources */,
-				2262307322AB0F0A00E98B43 /* background.png in Resources */,
-				2262307222AB0F0A00E98B43 /* frame.png in Resources */,
+				221EED5522BF01AB00ECDB0B /* CMakeLists.txt in Resources */,
+				227D7A3A22E3F4B400461959 /* Inconsolata-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -174,8 +244,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2262305322AB0ABE00E98B43 /* main.cpp in Sources */,
-				2262305022AB0ABE00E98B43 /* ResourcePath.mm in Sources */,
+				221EED6322C0405500ECDB0B /* Observ.cpp in Sources */,
+				22078692230A1A0C0081C438 /* TrainerAI.cpp in Sources */,
+				22F2A4962300881D00F7F57F /* GeneticAlgorithm.cpp in Sources */,
+				221EED5722BF01AB00ECDB0B /* Piece.cpp in Sources */,
+				2266B8CF22CA8E3D002BB856 /* main.cpp in Sources */,
+				221EED5A22BF0B4000ECDB0B /* PieceFactory.cpp in Sources */,
+				220C404622CA4B2100A41A38 /* GUI.cpp in Sources */,
+				221EED6022C02F5900ECDB0B /* Boardgame.cpp in Sources */,
+				22F2A48E22FF93DC00F7F57F /* NeuralNet.cpp in Sources */,
+				221EED5D22BFEDA800ECDB0B /* Pile.cpp in Sources */,
+				227D7A3F22E6236800461959 /* GameAI.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -185,110 +264,143 @@
 		2262305D22AB0ABE00E98B43 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
-				CLANG_CXX_LANGUAGE_STANDARD = "c++11";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
 				CLANG_CXX_LIBRARY = "libc++";
-				FRAMEWORK_SEARCH_PATHS = (
-					/Library/Frameworks/,
-					"$(inherited)",
-				);
-				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
-				HEADER_SEARCH_PATHS = (
-					/usr/local/include/,
-					"$(inherited)",
-				);
-				LIBRARY_SEARCH_PATHS = (
-					/usr/local/lib/,
-					"$(inherited)",
-				);
+				FRAMEWORK_SEARCH_PATHS = "";
+				GCC_VERSION = "";
+				HEADER_SEARCH_PATHS = /usr/local/include/;
+				LIBRARY_SEARCH_PATHS = /usr/local/lib/;
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				OTHER_LDFLAGS = (
-					"$(inherited)",
-					"$(SFML_SYSTEM)",
-					"$(SFML_WINDOW)",
-					"$(SFML_GRAPHICS)",
-					"$(SFML_AUDIO)",
-					"$(SFML_NETWORK)",
+					"-lsimple2d",
+					"-I/usr/local/include/SDL2",
+					"-D_THREAD_SAFE",
+					"-L/usr/local/lib",
+					"-lSDL2",
+					"-Wl,-framework,OpenGL",
+					"-lSDL2_image",
+					"-lSDL2_mixer",
+					"-lSDL2_ttf",
 				);
-				SFML_AUDIO = "$(SFML_LINK_PREFIX) sfml-audio$(SFML_LINK_SUFFIX)";
-				SFML_BINARY_TYPE = FRAMEWORKS;
-				SFML_GRAPHICS = "$(SFML_LINK_PREFIX) sfml-graphics$(SFML_LINK_SUFFIX)";
-				SFML_LINK_DYLIBS_PREFIX = "-l";
-				SFML_LINK_DYLIBS_SUFFIX = "";
-				SFML_LINK_FRAMEWORKS_PREFIX = "-framework";
-				SFML_LINK_FRAMEWORKS_SUFFIX = "";
-				SFML_LINK_PREFIX = "$(SFML_LINK_$(SFML_BINARY_TYPE)_PREFIX)";
-				SFML_LINK_SUFFIX = "$(SFML_LINK_$(SFML_BINARY_TYPE)_SUFFIX)";
-				SFML_NETWORK = "$(SFML_LINK_PREFIX) sfml-network$(SFML_LINK_SUFFIX)";
-				SFML_SYSTEM = "$(SFML_LINK_PREFIX) sfml-system$(SFML_LINK_SUFFIX)";
-				SFML_WINDOW = "$(SFML_LINK_PREFIX) sfml-window$(SFML_LINK_SUFFIX)";
 				SUPPORTED_PLATFORMS = macosx;
+				USER_HEADER_SEARCH_PATHS = "";
 			};
 			name = Debug;
 		};
 		2262305E22AB0ABE00E98B43 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
-				CLANG_CXX_LANGUAGE_STANDARD = "c++11";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
 				CLANG_CXX_LIBRARY = "libc++";
-				FRAMEWORK_SEARCH_PATHS = (
-					/Library/Frameworks/,
-					"$(inherited)",
-				);
-				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
-				HEADER_SEARCH_PATHS = (
-					/usr/local/include/,
-					"$(inherited)",
-				);
-				LIBRARY_SEARCH_PATHS = (
-					/usr/local/lib/,
-					"$(inherited)",
-				);
+				FRAMEWORK_SEARCH_PATHS = "";
+				GCC_VERSION = "";
+				HEADER_SEARCH_PATHS = /usr/local/include/;
+				LIBRARY_SEARCH_PATHS = /usr/local/lib/;
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				OTHER_LDFLAGS = (
-					"$(inherited)",
-					"$(SFML_SYSTEM)",
-					"$(SFML_WINDOW)",
-					"$(SFML_GRAPHICS)",
-					"$(SFML_AUDIO)",
-					"$(SFML_NETWORK)",
+					"-lsimple2d",
+					"-I/usr/local/include/SDL2",
+					"-D_THREAD_SAFE\n-L/usr/local/lib",
+					"-lSDL2",
+					"-Wl,-framework,OpenGL",
+					"-lSDL2_image",
+					"-lSDL2_mixer",
+					"-lSDL2_ttf",
 				);
-				SFML_AUDIO = "$(SFML_LINK_PREFIX) sfml-audio$(SFML_LINK_SUFFIX)";
-				SFML_BINARY_TYPE = FRAMEWORKS;
-				SFML_GRAPHICS = "$(SFML_LINK_PREFIX) sfml-graphics$(SFML_LINK_SUFFIX)";
-				SFML_LINK_DYLIBS_PREFIX = "-l";
-				SFML_LINK_DYLIBS_SUFFIX = "";
-				SFML_LINK_FRAMEWORKS_PREFIX = "-framework";
-				SFML_LINK_FRAMEWORKS_SUFFIX = "";
-				SFML_LINK_PREFIX = "$(SFML_LINK_$(SFML_BINARY_TYPE)_PREFIX)";
-				SFML_LINK_SUFFIX = "$(SFML_LINK_$(SFML_BINARY_TYPE)_SUFFIX)";
-				SFML_NETWORK = "$(SFML_LINK_PREFIX) sfml-network$(SFML_LINK_SUFFIX)";
-				SFML_SYSTEM = "$(SFML_LINK_PREFIX) sfml-system$(SFML_LINK_SUFFIX)";
-				SFML_WINDOW = "$(SFML_LINK_PREFIX) sfml-window$(SFML_LINK_SUFFIX)";
 				SUPPORTED_PLATFORMS = macosx;
+				USER_HEADER_SEARCH_PATHS = "";
 			};
 			name = Release;
 		};
 		2262306022AB0ABE00E98B43 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NCYPEHY28G;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(LOCAL_LIBRARY_DIR)/Frameworks",
+				);
+				HEADER_SEARCH_PATHS = (
+					/usr/local/include/,
+					"$(inherited)",
+					/usr/local/Cellar/simple2d/1.1.0/include,
+				);
 				INFOPLIST_FILE = "Tetris/Tetris-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "@loader_path/../Frameworks";
+				OTHER_LDFLAGS = (
+					"-lsimple2d",
+					"-I/usr/local/include/SDL2",
+					"-D_THREAD_SAFE",
+					"-L/usr/local/lib",
+					"-lSDL2",
+					"-Wl,-framework,OpenGL",
+					"-lSDL2_image",
+					"-lSDL2_mixer",
+					"-lSDL2_ttf",
+				);
+				"OTHER_LDFLAGS[arch=*]" = (
+					"-lsimple2d",
+					"-I/usr/local/include/SDL2",
+					"-D_THREAD_SAFE",
+					"-L/usr/local/lib",
+					"-lSDL2",
+					"-Wl,-framework,OpenGL",
+					"-lSDL2_image",
+					"-lSDL2_mixer",
+					"-lSDL2_ttf",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
 		2262306122AB0ABE00E98B43 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NCYPEHY28G;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(LOCAL_LIBRARY_DIR)/Frameworks",
+				);
+				HEADER_SEARCH_PATHS = (
+					/usr/local/include/,
+					"$(inherited)",
+					/usr/local/Cellar/simple2d/1.1.0/include,
+				);
 				INFOPLIST_FILE = "Tetris/Tetris-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "@loader_path/../Frameworks";
+				OTHER_LDFLAGS = (
+					"-lsimple2d",
+					"-I/usr/local/include/SDL2",
+					"-D_THREAD_SAFE",
+					"-L/usr/local/lib",
+					"-lSDL2",
+					"-Wl,-framework,OpenGL",
+					"-lSDL2_image",
+					"-lSDL2_mixer",
+					"-lSDL2_ttf",
+				);
+				"OTHER_LDFLAGS[arch=*]" = (
+					"-lsimple2d",
+					"-I/usr/local/include/SDL2",
+					"-D_THREAD_SAFE",
+					"-L/usr/local/lib",
+					"-lSDL2",
+					"-Wl,-framework,OpenGL",
+					"-lSDL2_image",
+					"-lSDL2_mixer",
+					"-lSDL2_ttf",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
 		};

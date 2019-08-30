@@ -1,0 +1,921 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tu",
+				"tunnelCount"
+			],
+			[
+				"cou",
+				"countObject"
+			],
+			[
+				"in",
+				"inputStructure"
+			],
+			[
+				"min",
+				"minSp_Z"
+			],
+			[
+				"dis",
+				"distancePQ"
+			],
+			[
+				"distance",
+				"distanceSpQ"
+			],
+			[
+				"index",
+				"indexSp"
+			],
+			[
+				"coor",
+				"coorSp_X"
+			],
+			[
+				"coo",
+				"coorSp_X"
+			],
+			[
+				"curre",
+				"currentQ_X"
+			],
+			[
+				"current",
+				"current_Z"
+			],
+			[
+				"cu",
+				"current_Y"
+			],
+			[
+				"coorSP",
+				"coorSp_X"
+			],
+			[
+				"inp",
+				"inputStructure"
+			],
+			[
+				"input",
+				"inputCube"
+			],
+			[
+				"cur",
+				"currentQ_Z"
+			],
+			[
+				"curr",
+				"currentQ_X"
+			],
+			[
+				"point",
+				"pointQFlaggedIdx"
+			],
+			[
+				"nei",
+				"neighborSESSpResult"
+			],
+			[
+				"neight",
+				"neighborSEResult"
+			],
+			[
+				"neig",
+				"neighborSSCoordinate"
+			],
+			[
+				"test",
+				"testValue"
+			],
+			[
+				"tes",
+				"testValue"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"l",
+				"LookupTable"
+			],
+			[
+				"int",
+				"inputCube"
+			],
+			[
+				"poin",
+				"pointTypeSecondary"
+			],
+			[
+				"po",
+				"pointTypeSecondary"
+			],
+			[
+				"p",
+				"pointValue"
+			],
+			[
+				"poi",
+				"pointValue"
+			],
+			[
+				"else",
+				"elseif\telseif"
+			],
+			[
+				"ind",
+				"indexPoint"
+			],
+			[
+				"y",
+				"y_current"
+			],
+			[
+				"x",
+				"x_current"
+			],
+			[
+				"z",
+				"z_current"
+			],
+			[
+				"count",
+				"countCavities"
+			],
+			[
+				"coun",
+				"countTunnels"
+			],
+			[
+				"effe",
+				"EffectivePointsList"
+			],
+			[
+				"countC",
+				"countComponent"
+			],
+			[
+				"eff",
+				"effectiveIdx"
+			],
+			[
+				"e",
+				"eCount"
+			],
+			[
+				"v",
+				"vCount"
+			],
+			[
+				"s",
+				"sFullCube"
+			],
+			[
+				"ro",
+				"rotateRecipe"
+			],
+			[
+				"ex",
+				"expectCube"
+			],
+			[
+				"els",
+				"elseif\telseif"
+			],
+			[
+				"el",
+				"elseif\telseif"
+			],
+			[
+				"data",
+				"dataSignificant"
+			],
+			[
+				"back",
+				"backgroundIndex"
+			],
+			[
+				"backg",
+				"backgroundConditionCount"
+			],
+			[
+				"backgro",
+				"backgroundCondition"
+			],
+			[
+				"inde",
+				"indexObject"
+			],
+			[
+				"k",
+				"k_background"
+			],
+			[
+				"j",
+				"j_background"
+			],
+			[
+				"i",
+				"i_background"
+			],
+			[
+				"bac",
+				"backgroundIndex"
+			],
+			[
+				"obje",
+				"objectIndex"
+			],
+			[
+				"object",
+				"objectList"
+			],
+			[
+				"dataLSf",
+				"dataLSFMax"
+			],
+			[
+				"dataLSF",
+				"dataLSFAverage"
+			],
+			[
+				"kern",
+				"kernelAveraged"
+			],
+			[
+				"mask",
+				"maskOutput"
+			],
+			[
+				"dataLS",
+				"dataLSFProjected"
+			],
+			[
+				"coorList",
+				"coorListSizeX"
+			],
+			[
+				"params",
+				"paramsLocal"
+			],
+			[
+				"condit",
+				"conditionStop"
+			],
+			[
+				"condi",
+				"conditionCurve"
+			],
+			[
+				"pXY",
+				"pXY_2"
+			],
+			[
+				"da",
+				"dataDistanceTransform"
+			],
+			[
+				"pPlus",
+				"pPlusTwo"
+			],
+			[
+				"dataImage",
+				"dataImageSkeleton"
+			],
+			[
+				"dataIma",
+				"dataImageSkeleton"
+			],
+			[
+				"indices",
+				"indicesList"
+			],
+			[
+				"indicesList",
+				"indicesListIndex"
+			],
+			[
+				"dataPlat",
+				"dataPlateNew"
+			],
+			[
+				"conn",
+				"connectedPlate"
+			],
+			[
+				"connec",
+				"connectedCountPrev"
+			],
+			[
+				"Eigen",
+				"EigenValues"
+			],
+			[
+				"threshold",
+				"thresholdStep"
+			],
+			[
+				"thre",
+				"thresholdMax"
+			],
+			[
+				"threshol",
+				"thresholdRange"
+			],
+			[
+				"thresh",
+				"thresholdMax"
+			],
+			[
+				"anam",
+				"anatomicalUnit"
+			],
+			[
+				"Seg",
+				"Segmentation"
+			],
+			[
+				"array",
+				"array2table\tMatlab method"
+			],
+			[
+				"box_coor_face",
+				"box_coor_faceUpper"
+			],
+			[
+				"impixel",
+				"impixelinfo\tImages method"
+			],
+			[
+				"checkDimensi",
+				"checkDimensionResult_Pre"
+			],
+			[
+				"paramsJunctio",
+				"paramsJunctionExtra"
+			],
+			[
+				"indicePoints",
+				"indicePoints_filtered"
+			],
+			[
+				"coorJuncti",
+				"coorJunctionX"
+			],
+			[
+				"imageEndPoint",
+				"imageEndPointsSurrounding"
+			],
+			[
+				"isin",
+				"isinf\tMatlab method"
+			],
+			[
+				"valueThickness",
+				"valueThickness_Prune"
+			],
+			[
+				"valueThickn",
+				"valueThickness_STD"
+			],
+			[
+				"connectionCount",
+				"connectionCount_Paper"
+			],
+			[
+				"nameConnecti",
+				"nameConnection"
+			],
+			[
+				"node_ty",
+				"node_type_abundance"
+			],
+			[
+				"duplicate",
+				"duplicates_number"
+			],
+			[
+				"junction_tob",
+				"junction_toBeDelete_index"
+			],
+			[
+				"duplicates",
+				"duplicates_number"
+			],
+			[
+				"junction_toBe",
+				"junction_toBeDelete_index"
+			],
+			[
+				"junction_to",
+				"junction_toBeDelete_index"
+			],
+			[
+				"duplicatio",
+				"duplicationCheck_first"
+			],
+			[
+				"check_previ",
+				"check_previous_branch"
+			],
+			[
+				"check_p",
+				"check_previous_branch"
+			],
+			[
+				"image_da",
+				"Image_Data"
+			],
+			[
+				"image_Dat",
+				"image_data_size"
+			],
+			[
+				"branch_list",
+				"branch_list_confirmed"
+			],
+			[
+				"isme",
+				"ismember\tMatlab method"
+			],
+			[
+				"unit_branch",
+				"unit_branch_count"
+			],
+			[
+				"result_log",
+				"result_log_current"
+			],
+			[
+				"JunctionTrace",
+				"JunctionTrace_temp"
+			],
+			[
+				"JunctionTrac",
+				"JunctionTrace_temp"
+			],
+			[
+				"branch_trac",
+				"branch_trace_and_delete"
+			],
+			[
+				"handl",
+				"handle\tMatlab method"
+			],
+			[
+				"prope",
+				"properties\tMatlab method"
+			],
+			[
+				"isem",
+				"isempty\tMatlab method"
+			],
+			[
+				"true_endPo",
+				"true_endPoints_unit"
+			],
+			[
+				"junction_re",
+				"junction_result_previous"
+			],
+			[
+				"junction_dif",
+				"junction_result_diff"
+			],
+			[
+				"junction_Re",
+				"junction_result_diff"
+			],
+			[
+				"junction_",
+				"junction_toBeDelete"
+			],
+			[
+				"Cropped_",
+				"Cropped_Image_Data"
+			],
+			[
+				"Imag",
+				"Image_Branch"
+			],
+			[
+				"Im",
+				"Image_Branch"
+			],
+			[
+				"no",
+				"Node_Value"
+			],
+			[
+				"bra",
+				"Branch_Value"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 3784,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "piece.hpp",
+			"settings":
+			{
+				"buffer_size": 418,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"syn",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: set",
+				"Package Control: Install Package"
+			],
+			[
+				"UI: Sele",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Sam/Dropbox/Mini Projects/Tetris/Tetris/TetristN.sublime-project",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/rotateCubeAlignment.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/classifySkeletonPointSecondary.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/classifySkeletonPointInitial.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/skeletonizeFuzzy.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/junction helpers/Branches/deleteSkeletonizeBranch.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/getTopoParameters_Tests.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/generateLookUpTable.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/EffectivePointsList.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/rotateCubeAlignment_TestList.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifySimplePoints.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifyClassOfCube.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/helpers/generateBinaryConfiguration.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifyClassOfCube_Tests.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/thinData.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/rotateCubeAlignment_Tests.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifyClassOfCube_TestList.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifyThickVoxel.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/calculateCMB.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/calculateCurveQuench_Tests.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/calculateCurveQuench.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/cleanSurfaceQuench.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifyThickVoxel_Tests.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/calculateCurveQuench_TestList.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/calculateLSF.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifySimplePoints_TestList.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Skeletonize/Skeleton3D.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/identifySimplePoints_Tests.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/testCaseList.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/junction helpers/Branches/cropBoneMask.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/cleanCurveQuench.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/maskList.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/skeletonizeFuzzy_Test.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/junction_pca.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/classifySurfaceQuench.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/calculateSurfaceQuench.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/Fuzzy Skeleton/calculateDistanceTransform.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/junction helpers/Junctions/identifyJunction.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/junction helpers/Branches/retrievePlate.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/helpers/imshow3Dfull.m",
+		"/Users/Sam/Downloads/phi-max-skeleton3d-matlab-18c7dc3/pk_get_nh_idx.m",
+		"/Users/Sam/Downloads/phi-max-skeleton3d-matlab-18c7dc3/pk_get_nh.m",
+		"/Users/Sam/Downloads/phi-max-skeleton3d-matlab-18c7dc3/Test_Skeleton3D.m",
+		"/Users/Sam/Downloads/phi-max-skeleton3d-matlab-18c7dc3/license.txt",
+		"/Users/Sam/Downloads/phi-max-skeleton3d-matlab-18c7dc3/p_is_simple.m",
+		"/Users/Sam/Downloads/phi-max-skeleton3d-matlab-18c7dc3/README.md",
+		"/Users/Sam/Downloads/phi-max-skeleton3d-matlab-18c7dc3/readme.txt",
+		"/Users/Sam/Downloads/phi-max-skeleton3d-matlab-18c7dc3/FillEulerLUT.m",
+		"/Users/Sam/Downloads/phi-max-skeleton3d-matlab-18c7dc3/p_EulerInv.m",
+		"/Users/Sam/Downloads/phi-max-skeleton3d-matlab-18c7dc3/Skeleton3D.m",
+		"/Users/Sam/Downloads/phi-max-skeleton3d-matlab-18c7dc3/testvol.mat",
+		"/Users/Sam/Downloads/phi-max-skeleton3d-matlab-18c7dc3/p_oct_label.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/junction helpers/Branches/classifyBranch_parfor.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/helpers/addData.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/junction_final.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Python/SegmentationThreshold.py",
+		"/Users/Sam/Dropbox/Data/Bone project/Python/SegmentationBoneModule.py",
+		"/Users/Sam/Dropbox/Data/Bone project/Python/segmentationBone.py",
+		"/Users/Sam/Dropbox/Data/Bone project/Python/segmentationBoneModule.py",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/junction helpers/Branches/deleteBranch.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/helpers/saveData.m",
+		"/Users/Sam/Dropbox/Data/Bone project/Matlab/ITA.sublime-project",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Branches/RetrievingBranch.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Branches/TracingBranch.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction_process.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Junctions/filterJunction.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/helpers/result_record.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Junctions/matchJunctionToBox.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/Deprecated/branch_delete_redundant.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Branches/deleteRedundantBranch.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Junctions/matchJunctionToBox_TEST.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Junctions/countJunction.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Branches/identifyBranch.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Branches/deleteBranch.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Junctions/identifyJunction.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Junctions/checkJunctionClean.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction_pca.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/helpers/getCallStack.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/Deprecated/branch_identify.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Branches/classifyBranch.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Junctions/junctions_to_box.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Junctions/CountingJunctionBranch.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Branches/branch_identify.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/helpers/imshow3D.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/PCA_test.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Branches/calculateImagePCA.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/helpers/get_endPoint.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction_final.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/helpers/fill_endPoint.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Branches/BranchTracing.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Branches/BranchTracing_NEW.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/helpers/dilatePoint.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Branches/branch_delete.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/classifyBranch.m",
+		"/Users/Sam/Documents/Bitbar plugins/deathTimer.5m.py",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Junctions/JunctionBranchCount_NEW.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Branches/BranchTracing_OLDD.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Junctions/JunctionBranchCount.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Branches/branch_delete_redundant.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Junctions/countJunction_NEW.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/Analyze Data/Trabecular length/analyze_binsEuler_data.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/helpers/calculatePCARatio.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/Analyze Data/Trabecular length/analyze_meanEuler_data.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/Analysis helpers/get_thickness_prune.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/helpers/load_data.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/helpers/log_process.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Junctions/junction_count.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Junctions/junctionCount.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Junctions/junction_label_image.m",
+		"/Users/Sam/Library/Mobile Documents/com~apple~CloudDocs/Downloads/newFunction/newFunction.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/helpers/list_to_index.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/paper functions/ITA papers/func_ITA/load_data_ITA.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction_final.asv",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/helpers/log_error.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction_process_paper.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/angle_calculate.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/Analyze Data/Connections/analyze_junction_data.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Branches/TEST_branch_delete_redundant.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/Analysis helpers/get_trabecular_length_raw.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/Analysis helpers/fit_data.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Junctions/junction_couple.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/angle_new.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/junction helpers/Branches/branch_euler_distance.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/Analyze Data/Angle/bins_data.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/Deprecated/bins_data_OLD.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/Analysis helpers/bins_data.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/Analyze Data/Trabecular length/analyze_tbL_data.m",
+		"/Users/Sam/Dropbox/Data/Bone project/ITA/helpers/convert_simple_endPoint.m"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "piece.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TetristN.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ge",
+				"get_endPoint.m"
+			],
+			[
+				"",
+				"junction_check_clean.m"
+			],
+			[
+				"mer",
+				"merge_segments_to_one_point.m"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
